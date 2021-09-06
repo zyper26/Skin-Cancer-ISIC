@@ -19,3 +19,8 @@ The data set contains the following diseases: <br>
   Vascular lesion
   
 You can get the dataset from this [URL](https://www.kaggle.com/nodoubttome/skin-cancer9-classesisic)
+
+
+#### Dataset Example:
+
+![Dataset Example](https://github.com/zyper26/Skin-Cancer-ISIC/blob/main/All_Images.png?raw=true)
