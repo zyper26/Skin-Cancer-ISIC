@@ -24,7 +24,7 @@ You can get the dataset from this [URL](https://www.kaggle.com/nodoubttome/skin-
 #### Dataset Example:
 
 
-<div style="text-align: center;text-size:20px;border:1px solid red;background:white; font-size:30px; color:white">
+<div style="text-align:center; text-size:20px; border:1px solid red; font-size:30px; color:white; background">
 <img src= "https://github.com/zyper26/Skin-Cancer-ISIC/blob/main/All_Images.png?raw=true" title ="Dataset Example" style='width: 1000px;'>
 </div>
 
