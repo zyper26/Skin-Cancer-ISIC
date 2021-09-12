@@ -28,3 +28,10 @@ You can get the dataset from this [URL](https://www.kaggle.com/nodoubttome/skin-
 <img src= "https://github.com/zyper26/Skin-Cancer-ISIC/blob/main/All_Images.png?raw=true" title ="Dataset Example" style='width: 1000px;'>
 </div>
 
+
+#### Final Results:
+
+<div style="text-align:center; text-size:20px; border:1px solid red; font-size:30px; color:white; background">
+<img src= "https://github.com/zyper26/Skin-Cancer-ISIC/blob/main/final_results.png?raw=true" title ="Dataset Example" style='width: 1000px;'>
+</div>
+
